@@ -3569,8 +3569,8 @@ input, select, textarea {
 			transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
 			pointer-events: auto;
 			border-style: solid;
-			border-color: #523973;
-			color: #523973;
+			border-color: #FFFFFF;
+			color: #FFFFFF;
 			border-width: 5px !important;
 			font-family: "Source Sans Pro", Helvetica, sans-serif;
 			font-size: 2.25rem;
@@ -3583,8 +3583,8 @@ input, select, textarea {
 		}
 
 			#header .logo:hover {
-				border-color: #18bfef !important;
-				color: #18bfef !important;
+				border-color: #523973 !important;
+				color: #523973 !important;
 			}
 
 		@media screen and (max-width: 980px) {
