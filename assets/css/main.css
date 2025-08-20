@@ -3314,38 +3314,38 @@ input, select, textarea {
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: #523973;
+			color: #FFFFFF;
 		}
 
 		#intro a {
-			color: #523973;
+			color: #FFFFFF;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #523973 !important;
 			}
 
 		#intro strong, #intro b {
-			color: #523973;
+			color: #FFFFFF;
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: #523973;
+			color: #FFFFFF;
 		}
 
 		#intro blockquote {
-			border-left-color: #523973;
+			border-left-color: #FFFFFF;
 		}
 
 		#intro code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #523973;
+			border-color: #FFFFFF;
 		}
 
 		#intro hr {
-			border-bottom-color: #523973;
+			border-bottom-color: #FFFFFF;
 		}
 
 		#intro input[type="submit"],
@@ -3354,8 +3354,8 @@ input, select, textarea {
 		#intro button,
 		#intro .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #523973;
-			color: #523973 !important;
+			box-shadow: inset 0 0 0 2px #FFFFFF;
+			color: #FFFFFF !important;
 		}
 
 			#intro input[type="submit"]:hover,
@@ -3363,7 +3363,7 @@ input, select, textarea {
 			#intro input[type="button"]:hover,
 			#intro button:hover,
 			#intro .button:hover {
-				box-shadow: inset 0 0 0 2px #18bfef;
+				box-shadow: inset 0 0 0 2px #523973;
 				color: #18bfef !important;
 			}
 
@@ -3372,7 +3372,7 @@ input, select, textarea {
 			#intro input[type="button"].primary,
 			#intro button.primary,
 			#intro .button.primary {
-				background-color: #523973;
+				background-color: #FFFFFF;
 				box-shadow: none;
 				color: #1e252d !important;
 			}
@@ -3382,7 +3382,7 @@ input, select, textarea {
 				#intro input[type="button"].primary:hover,
 				#intro button.primary:hover,
 				#intro .button.primary:hover {
-					background-color: #18bfef;
+					background-color: #523973;
 				}
 
 		#intro h1 {
