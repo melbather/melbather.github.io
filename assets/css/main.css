@@ -100,7 +100,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(126, 193, 252, 1) 73%, rgba(252, 236, 126, 1) 100%);
+		background: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(126, 193, 252, 1) 73%, rgba(252, 236, 126, 1) 100%);
 		
 	}
 
