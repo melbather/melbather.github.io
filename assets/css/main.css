@@ -100,7 +100,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #9e4bfb;
+		background-color: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(126, 193, 252, 1) 73%, rgba(252, 236, 126, 1) 100%);
+		
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
