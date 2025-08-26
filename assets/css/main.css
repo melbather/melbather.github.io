@@ -3234,7 +3234,7 @@ input, select, textarea {
 			top: 0;
 			left: 0;
 			width: 100%;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("../../images/bg.jpg") !important;
 			background-color: #fcec7e;
 			background-size: 100% auto;
 			background-position: top center;
