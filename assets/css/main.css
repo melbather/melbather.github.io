@@ -3234,8 +3234,7 @@ input, select, textarea {
 			top: 0;
 			left: 0;
 			width: 100%;
-			background-image: url("../../images/bg.jpg") !important;
-			background-color: #fcec7e;
+			background: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(126, 193, 252, 1) 73%, rgba(252, 236, 126, 1) 100%);
 			background-size: 100% auto;
 			background-position: top center;
 			background-repeat: repeat;
