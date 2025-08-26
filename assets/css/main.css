@@ -34,7 +34,7 @@ body {
 	line-height: 1;
 }
 
-ol, ul {
+ol,  {
 	list-style: none;
 }
 
@@ -2849,7 +2849,7 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2rem 0;
+		margin: 0 0 0 0;
 		padding-left: 1rem;
 	}
 
