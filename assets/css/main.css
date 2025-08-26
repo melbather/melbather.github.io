@@ -2854,7 +2854,7 @@ input, select, textarea {
 		padding-left: 1rem;
 	}
 
-	#job-list ul {
+	ul#job-list {
 		margin: 0 0 0 0;
 	}
 
