@@ -2854,6 +2854,10 @@ input, select, textarea {
 		padding-left: 1rem;
 	}
 
+	#job-list ul {
+		margin: 0 0 0 0;
+	}
+
 		ul li {
 			padding-left: 0.5rem;
 			text-align: left;
